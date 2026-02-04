@@ -127,7 +127,7 @@ Total_Customers = DISTINCTCOUNT(Sales[Customer ID])
 Retained_Customers = 
 COUNTROWS(
     FILTER(
-        GROUPBY(Sales, Sales[Customer ID]),
+        VALUES(Sales[Customer ID]),
         [order_count] > 1
     )
 )
