@@ -20,7 +20,9 @@ The dataset used is `Sample - Superstore.csv`, sourced from Kaggle. This dataset
   - Normalized the main Superstore table into:
        - Sales (Fact Table)
        - Orders, Products, and Customers (Dimension Tables)
-  - Created a dedicated Date table.
+  - Created a dedicated Date table using Power Query (M):
+    ```powerquery
+    = List.Dates(#date(2014,1,1),1461,#duration(1,0,0,0))
   - Verified data integrity:
        - Removed duplicate values where necessary.
        - Ensured consistency in key fields used for relationships.
