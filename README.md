@@ -176,9 +176,9 @@ The EDA was performed on 2014–2017 sales data, analyzing Revenue, Quantity Sol
   - *Technology* had higher revenue per unit, evident from fewer units sold but high revenue.
   - *Furniture* showed stable sales but inconsistent profit performance.
 - **Customer Segments**:
-  - All three customer segments — Consumer, Corporate, and Home Office — showed consistent growth in quantities purchased from 2014 to 2017.
+  - All three customer segments namely Consumer, Corporate, and Home Office showed consistent growth in quantities purchased from 2014 to 2017.
   - The **Consumer segment** led in volume, while **Corporate** and **Home Office** segments grew steadily.
-- **State-Level Quantity Analysis**:
+- **State Level Quantity Analysis**:
   - Frequent leaders included California, Texas, New York, and Washington.
   - Underperformers were states like South Dakota, Montana, and Vermont.
 
@@ -196,7 +196,7 @@ The EDA was performed on 2014–2017 sales data, analyzing Revenue, Quantity Sol
   - **Furniture** fluctuated, sometimes posting losses, especially in Q1 (e.g., 2015 and 2017).
 - **Customer Segments**:
   - Profit rose steadily from 2014–2017, with the **Consumer** segment remaining the most profitable, followed by **Corporate** and **Home Office**.
-- **State-level Profit analysis**:
+- **State level Profit analysis**:
   - California and Washington were the most consistently profitable states across 2014–2017, followed closely by New York, Virginia, Arizona, Indiana, Pennsylvania, Colorado, and Kentucky.
   - States such as Texas, Illinois, Ohio, and Tennessee consistently appeared among the lowest profit contributors.
 
@@ -207,7 +207,7 @@ The EDA was performed on 2014–2017 sales data, analyzing Revenue, Quantity Sol
   - 2016: 59.09%
   - 2017: 71.14%
 - **Top Customers**:
-  - Top-performing customers varied by year. For example, Nathan Mautz and Mitch Webber were key contributors in 2014–2015, while Raymond Buch, Hunter Lopez, and Tom Ashbrook emerged as top revenue drivers in 2017.
+  - Top performing customers varied by year. For example, Nathan Mautz and Mitch Webber were key contributors in 2014–2015, while Raymond Buch, Hunter Lopez, and Tom Ashbrook emerged as top revenue drivers in 2017.
   - These customers contributed significantly to both revenue and profit.
 
 ## Summary of Key Findings
@@ -218,9 +218,9 @@ The EDA was performed on 2014–2017 sales data, analyzing Revenue, Quantity Sol
 - Customer retention improved significantly, indicating stronger customer relationships.
   
 ## Recommendations
-- Supporting strong-performing segments should be continued, as the Consumer segment and Technology category have shown consistent growth.
-- High-performing states like California, New York, Texas, and Washington should be leveraged for further opportunities.
-- Low-performing states can be explored further to identify potential areas for improvement.
+- Supporting strong performing segments should be continued, as the Consumer segment and Technology category have shown consistent growth.
+- High performing states like California, New York, Texas, and Washington should be leveraged for further opportunities.
+- Low performing states can be explored further to identify potential areas for improvement.
 - Customer retention efforts should be maintained, given the steady improvement observed.
 - Exploring strategies to maintain steady sales throughout the year can help minimize dips in certain months.
 - Growing segments like Home Office should be supported with tailored strategies to encourage further growth.
