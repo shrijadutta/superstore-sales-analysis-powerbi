@@ -162,8 +162,8 @@ The EDA was performed on 2014–2017 sales data, analyzing Revenue, Quantity Sol
   - **Consumer segment** was the top revenue generator annually.
   - **Corporate followed**, with **Home Office** trailing, though all segments showed upward trends by 2017.
 - **State-Level Revenue Analysis**:
-  - Top revenue states shifted yearly, with California and New York consistently leading, joined by others like Texas, Pennsylvania, Indiana, Virginia, and Washington across 2014–2017.
-  - States such as Missouri, Kansas, and South Dakota showed low revenue contributions across all four years.
+  - **Top 10 States**: Top revenue-generating states varied across years, with California, New York, and Pennsylvania consistently appearing among the leaders, alongside states like Texas, Michigan, and Virginia.
+  - **Bottom 10 States**: States such as New Hampshire, Missouri, Rhode Island, and Alabama repeatedly appeared among the lowest revenue generating states across multiple years.
 
 ### 2. Quantity Analysis
 - **Year-over-Year Growth**: Steady increase in total quantity sold.
@@ -179,8 +179,8 @@ The EDA was performed on 2014–2017 sales data, analyzing Revenue, Quantity Sol
   - All three customer segments namely Consumer, Corporate, and Home Office showed consistent growth in quantities purchased from 2014 to 2017.
   - The **Consumer segment** led in volume, while **Corporate** and **Home Office** segments grew steadily.
 - **State Level Quantity Analysis**:
-  - Frequent leaders included California, Texas, New York, and Washington.
-  - Underperformers were states like South Dakota, Montana, and Vermont.
+  - Frequent leaders included California, Texas, New York, Pennsylvania and Washington.
+  - Underperformers were states like Michigan, Arizona, California, Okhlahoma.
 
 ### 3. Profit Analysis
 - **Profit Growth**: Consistent growth year-over-year.
@@ -197,8 +197,8 @@ The EDA was performed on 2014–2017 sales data, analyzing Revenue, Quantity Sol
 - **Customer Segments**:
   - Profit rose steadily from 2014–2017, with the **Consumer** segment remaining the most profitable, followed by **Corporate** and **Home Office**.
 - **State level Profit analysis**:
-  - California and Washington were the most consistently profitable states across 2014–2017, followed closely by New York, Virginia, Arizona, Indiana, Pennsylvania, Colorado, and Kentucky.
-  - States such as Texas, Illinois, Ohio, and Tennessee consistently appeared among the lowest profit contributors.
+  - California, New York and Washington were the most consistently profitable states across 2014–2017, followed closely by Michigan, Virginia, Indiana.
+  - States such as Texas, Ohio, Pennsylvania and Tennessee consistently appeared among the lowest profit contributors.
 
 ### 4. Customer Analysis
 - **Retention Rate**: Improved consistently
